@@ -1,1 +1,2 @@
 # Kaggle-House-Price
+House sale price prediction -- Kaggle competition. In this project i have predicted the house sale price using two regression models which are, Random Forest regression and XGBoost regression. With the help of RandomizedSearchCV, hyper-parameter tunning of both the models have been done to improve the prediction performance. After hyper-parameter tunning my rank in this kagglr competition increased by 1200 ranks.
